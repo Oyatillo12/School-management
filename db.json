@@ -1,0 +1,81 @@
+{
+  "teachers": [
+    {
+      "id": "a1e1",
+      "fullName": "hello",
+      "img": "/src/assets/images/avatar.png",
+      "age": "18",
+      "email": "hello@gmail.com",
+      "about": "\n",
+      "class": "JSS 3",
+      "subject": "Chemistry",
+      "gender": "Female"
+    },
+    {
+      "id": "7",
+      "fullName": "aeaaxa",
+      "img": "/src/assets/images/avatar.png",
+      "age": "18",
+      "email": "hello@gmail.com",
+      "about": "\n",
+      "class": "JSS 3",
+      "subject": "Chemistry",
+      "gender": "Female"
+    },
+    {
+      "id": "5",
+      "fullName": "bfds",
+      "img": "/src/assets/images/avatar.png",
+      "age": "18",
+      "email": "hello@gmail.com",
+      "about": "\n",
+      "class": "JSS 3",
+      "subject": "Chemistry",
+      "gender": "Female"
+    },
+    {
+      "id": "4",
+      "fullName": "scasa",
+      "img": "/src/assets/images/avatar.png",
+      "age": "18",
+      "email": "hello@gmail.com",
+      "about": "\n",
+      "class": "JSS 3",
+      "subject": "Chemistry",
+      "gender": "Female"
+    },
+    {
+      "id": "3",
+      "fullName": "scassvs",
+      "img": "/src/assets/images/avatar.png",
+      "age": "18",
+      "email": "hello@gmail.com",
+      "about": "\n",
+      "class": "JSS 3",
+      "subject": "Chemistry",
+      "gender": "Female"
+    },
+    {
+      "id": "11",
+      "fullName": "bfdvds",
+      "img": "/src/assets/images/avatar.png",
+      "age": "18",
+      "email": "hello@gmail.com",
+      "about": "\n",
+      "class": "JSS 3",
+      "subject": "Chemistry",
+      "gender": "Female"
+    },
+    {
+      "id": "12",
+      "fullName": "vrevs",
+      "img": "/src/assets/images/avatar.png",
+      "age": "18",
+      "email": "hello@gmail.com",
+      "about": "\n",
+      "class": "JSS 3",
+      "subject": "Chemistry",
+      "gender": "Female"
+    }
+  ]
+}
