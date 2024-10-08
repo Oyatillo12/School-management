@@ -1,37 +1,15 @@
 {
   "teachers": [
     {
-      "id": "a1e1",
-      "fullName": "hello",
-      "img": "/src/assets/images/avatar.png",
-      "age": "18",
-      "email": "hello@gmail.com",
-      "about": "\n",
-      "class": "JSS 3",
-      "subject": "Chemistry",
-      "gender": "Female"
-    },
-    {
-      "id": "7",
-      "fullName": "aeaaxa",
-      "img": "/src/assets/images/avatar.png",
-      "age": "18",
-      "email": "hello@gmail.com",
-      "about": "\n",
-      "class": "JSS 3",
-      "subject": "Chemistry",
-      "gender": "Female"
-    },
-    {
-      "id": "5",
       "fullName": "bfds",
-      "img": "/src/assets/images/avatar.png",
+      "img": "blob:https://school-management-steel.vercel.app/dcc6184c-a6b5-4b69-8f16-59d793223ba1",
       "age": "18",
       "email": "hello@gmail.com",
       "about": "\n",
       "class": "JSS 3",
       "subject": "Chemistry",
-      "gender": "Female"
+      "gender": "Female",
+      "id": "5"
     },
     {
       "id": "4",
@@ -58,17 +36,6 @@
     {
       "id": "11",
       "fullName": "bfdvds",
-      "img": "/src/assets/images/avatar.png",
-      "age": "18",
-      "email": "hello@gmail.com",
-      "about": "\n",
-      "class": "JSS 3",
-      "subject": "Chemistry",
-      "gender": "Female"
-    },
-    {
-      "id": "12",
-      "fullName": "vrevs",
       "img": "/src/assets/images/avatar.png",
       "age": "18",
       "email": "hello@gmail.com",

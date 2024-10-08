@@ -46,7 +46,7 @@ function SingleUser() {
                 </div>
                 <div className='w-[400px] pt-10'>
                     <strong className='font-semibold text-[#1A1A1A] text-[16px] leading-5 mb-[10px]'>About</strong>
-                    <p className='text-[#A7A7A7] text-[16px] leading-[21px] font-medium'>{user?.about}</p>
+                    <p className='text-[#A7A7A7] text-[16px] leading-[21px] font-medium'>{user?.about ? user.about : "Not avialable"}</p>
                     <div className='flex items-center gap-x-[120px]  mt-7'>
                         <div className='flex items-center flex-col justify-center'>
                             <strong className='font-semibold text-[#1A1A1A] text-[12px] leading-[14px] block mb-[7px]'>Subject</strong>
